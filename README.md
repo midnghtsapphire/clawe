@@ -1,5 +1,12 @@
 # 🦞 Clawe
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/%40clawe%2Fcli?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/%40clawe%2Fcli?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/%40clawe%2Fcli?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-0.1.0-blue?style=flat-square)](https://www.npmjs.com/package/@clawe/cli)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 A multi-agent coordination system powered by [OpenClaw](https://github.com/openclaw/openclaw).
 
 Deploy a team of AI agents that work together, each with their own identity, workspace, and scheduled heartbeats. Coordinate tasks, share context, and deliver notifications in near real-time.
